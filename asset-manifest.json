@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SabahMuhamed/react-code-editor-frontend-only-/static/css/main.8082dbf1.css",
+    "main.js": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/main.e2da90c4.js",
+    "static/js/550.69bf2950.chunk.js": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/550.69bf2950.chunk.js",
+    "static/js/967.30f16abf.chunk.js": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/967.30f16abf.chunk.js",
+    "static/js/531.d0d19e68.chunk.js": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/531.d0d19e68.chunk.js",
+    "static/js/55.e7afecf5.chunk.js": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/55.e7afecf5.chunk.js",
+    "index.html": "/SabahMuhamed/react-code-editor-frontend-only-/index.html",
+    "main.8082dbf1.css.map": "/SabahMuhamed/react-code-editor-frontend-only-/static/css/main.8082dbf1.css.map",
+    "main.e2da90c4.js.map": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/main.e2da90c4.js.map",
+    "550.69bf2950.chunk.js.map": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/550.69bf2950.chunk.js.map",
+    "967.30f16abf.chunk.js.map": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/967.30f16abf.chunk.js.map",
+    "531.d0d19e68.chunk.js.map": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/531.d0d19e68.chunk.js.map",
+    "55.e7afecf5.chunk.js.map": "/SabahMuhamed/react-code-editor-frontend-only-/static/js/55.e7afecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8082dbf1.css",
+    "static/js/main.e2da90c4.js"
+  ]
+}
